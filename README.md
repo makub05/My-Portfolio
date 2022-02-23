@@ -1,1 +1,49 @@
-# My-Portfolio
+# ABOUT ME
+Hi, my name is Marta. I am a junior software tester who would like to develop further towards automation testing. Currently I am expanding my software testing skills with knowledge about HTML, CSS, JavaScript and Cypress testing. Here I would like to share more information about my sklis and show projects created so far by me.
+
+# WHAT I KNOW
+
+* Git
+* Postman
+* Test Link
+* JIRA
+* TestRail
+* Mantis
+* Selenium WebDriver
+* HTML
+* CSS
+* SQL
+* BDD
+
+# COURSES
+
+* **Course "Software Tester" (105h)** - Software Development Academy - introduction to software testing, test design techniques, risk based testing, tool supported testing (JIRA, Git, TestLink, Postman), introduction do databases - SQL, introduction do Java programming, testing in the BDD methodology (Cucumber), automation in software testing – Selenium WebDriver, final project, ISTQB Preparation.
+* **Course "Scrum" (6h)** - Software Development Academy -  methodology of running IT projects, Agile Manifesto, Scrum, code review, planning, estimating.
+* **Course "Certified ISTQB tester - basic level" (21h)** - TestArmy Group S.A. - workshops on: designing a test plan and test cases, testing web and mobile applications, reporting errors, testing software compliance with the specification.
+* *The Complete 2022 Web Development Bootcamp* - Dr. Angely Yu (Udemy) - currently doing, not finished.
+
+
+# CERTIFICATES
+
+* **ISTQB Certified Tester Foundation Level** - SJSI - credentials  11406/FLCT/2018.
+
+# MY PROJECTS
+
+*Tests*
+
+* MrBuggy
+* Raverly
+* MediaExpert
+
+*Selenium WebDriver tests*
+
+* 
+
+*My portfolio website*
+
+* 
+
+
+
+
+
