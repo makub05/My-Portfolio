@@ -1,5 +1,5 @@
 # ABOUT ME
-Hi, my name is Marta. I am a junior software tester who would like to develop further towards automation testing. Currently I am expanding my software testing skills with knowledge about HTML, CSS, JavaScript and Cypress testing. Here I would like to share more information about my sklis and show projects created so far by me.
+Hi, my name is Marta. I am a junior software tester who would like to develop further towards automation testing. Currently I am expanding my software testing skills with knowledge about HTML, CSS, JavaScript and Cypress testing. Here I would like to share more information about my skllis and show projects created so far by me.
 
 # WHAT I KNOW
 
