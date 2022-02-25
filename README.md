@@ -29,8 +29,6 @@ Hi, my name is Marta. I am a junior software tester who would like to develop fu
 
 # MY PROJECTS
 
-*Tests
-
 MrBuggy (PL)
   * [Specification](http://mrbuggy.pl/mrbuggy3/dfiles/Specyfikacja_Mr_Buggy_3.pdf)
   * [Specification analysis](https://docs.google.com/spreadsheets/d/1u4Aoek9wRvd07Ep4CGLc4eyxg3iEhv_JMe89EIg1c3s/edit?usp=sharing)
