@@ -29,28 +29,28 @@ Hi, my name is Marta. I am a junior software tester who would like to develop fu
 
 # MY PROJECTS
 
-*Tests*
+*Tests
 
-* MrBuggy (PL)
+MrBuggy (PL)
   * [Specification](http://mrbuggy.pl/mrbuggy3/dfiles/Specyfikacja_Mr_Buggy_3.pdf)
   * [Specification analysis](https://docs.google.com/spreadsheets/d/1u4Aoek9wRvd07Ep4CGLc4eyxg3iEhv_JMe89EIg1c3s/edit?usp=sharing)
   * [Requirements based on specifications](https://docs.google.com/spreadsheets/d/1RROIZLBDkVsf-YKzXwF8KJa3dlIsrPjsl-uk6jS2ZzY/edit?usp=sharing)
   * [Test cases]
   * [Report]
 
-* Raverly (ENG)
+Raverly (ENG)
  * [Test cases]()
 
-* MediaExpert (ENG)
+MediaExpert (ENG)
  * [Bug report](https://drive.google.com/file/d/1zh8UTSNXOVPhQsG428LEcuZrWmcwUCJ0/view?usp=sharing)
 
-* Zalando (PL)
+Zalando (PL)
  * [Report]()
 
-*Selenium WebDriver tests*
+Selenium WebDriver tests
  *
 
-*My portfolio website*
+My portfolio website
  * 
 
 
