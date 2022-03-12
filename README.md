@@ -45,11 +45,6 @@ MediaExpert (ENG)
 Zalando (PL)
  * [Report]()
 
-Selenium WebDriver tests
- *
-
-My portfolio website
- * 
 
 
 
